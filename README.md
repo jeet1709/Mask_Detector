@@ -21,7 +21,7 @@
 ****
 # WORKING DEMO
 
-[Video Description of project](https://youtu.be/XwXRfrNR-jo)
+[![Watch the video](https://i9.ytimg.com/vi/XwXRfrNR-jo/mq2.jpg?sqp=CKCQwvsF&rs=AOn4CLCVT0GKvNOZCtr2PPmVw11ep0RBxw)](https://youtu.be/XwXRfrNR-jo)
 
 ****
 
